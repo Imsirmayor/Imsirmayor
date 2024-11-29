@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on the test and validation side of semiconductor engineering 
+I'm currently working on the test, automation, security testing and validation side of semiconductor and automotive engineering 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Sirmayor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_sirmayor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/Adeyemimayowa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/im_sirmayor) 
